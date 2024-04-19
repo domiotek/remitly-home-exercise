@@ -1,0 +1,19 @@
+{
+  "name": "remitly-home-exercise",
+  "version": "1.0.0",
+  "description": "Home exercise for Remitly internship program.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest",
+    "start": "tsc index.ts && node index.js"
+  },
+  "author": "domiotek",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.2"
+  },
+  "dependencies": {
+    "typescript": "^5.4.5"
+  }
+}
